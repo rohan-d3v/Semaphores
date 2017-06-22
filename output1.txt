@@ -1,0 +1,258 @@
+Current PID: 20100 
+Argument passed: aaaaaaabbbaaaabbbbbb 
+PID: 20101 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+Mutex PassedCrossing to A about to start
+PID: 20101 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+A signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20101 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+PID: 20102 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+Mutex PassedCrossing to A about to start
+PID: 20102 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+A signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20102 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+PID: 20103 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+Mutex PassedCrossing to A about to start
+PID: 20103 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+A signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20103 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+PID: 20104 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+Mutex PassedCrossing to A about to start
+PID: 20104 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+A signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20104 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+PID: 20105 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+Mutex PassedCrossing to A about to start
+PID: 20105 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+A signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20105 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+PID: 20106 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+Mutex PassedCrossing to A about to start
+PID: 20106 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+A signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20106 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+PID: 20107 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+Mutex PassedCrossing to A about to start
+PID: 20107 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+A signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20107 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+PID: 20108 
+ Baboon Crossing to B
+Waiting on Mutex for pass to B
+Mutex PassedPID: 20108 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Crossing to B about to start
+PID: 20108 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+PID: 20108 | XingCnt = 0, XedCnt = 1, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+PID: 20109 
+ Baboon Crossing to B
+Waiting on Mutex for pass to B
+Mutex PassedPID: 20109 | XingCnt = 0, XedCnt = 1, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20109 | XingCnt = 1, XedCnt = 1, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+PID: 20109 | XingCnt = 0, XedCnt = 2, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+PID: 20110 
+ Baboon Crossing to B
+Waiting on Mutex for pass to B
+Mutex PassedPID: 20110 | XingCnt = 0, XedCnt = 2, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20110 | XingCnt = 1, XedCnt = 2, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+PID: 20110 | XingCnt = 0, XedCnt = 3, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+PID: 20116 
+ Baboon Crossing to B
+Waiting on Mutex for pass to B
+PID: 20111 
+ Baboon Crossing to A
+PID: 20117 
+ Baboon Crossing to B
+Waiting on Mutex for pass to A
+Waiting on Mutex for pass to B
+PID: 20112 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+PID: 20118 
+ Baboon Crossing to B
+Waiting on Mutex for pass to B
+PID: 20113 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+PID: 20119 
+ Baboon Crossing to B
+Waiting on Mutex for pass to B
+PID: 20114 
+ Baboon Crossing to A
+Waiting on Mutex for pass to A
+PID: 20120 
+ Baboon Crossing to B
+Waiting on Mutex for pass to B
+PID: 20115 
+ Baboon Crossing to B
+Mutex PassedPID: 20116 | XingCnt = 0, XedCnt = 3, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20116 | XingCnt = 1, XedCnt = 3, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex PassedA is now supposed to wait
+PID: 20111 | XingCnt = 1, XedCnt = 3, toaWaitCnt = 1, tobWaitCnt = 0, Dir = 2
+Signalling mutex 
+Waiting on Mutex for pass to B
+Mutex PassedPID: 20117 | XingCnt = 1, XedCnt = 3, toaWaitCnt = 1, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20117 | XingCnt = 2, XedCnt = 3, toaWaitCnt = 1, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex PassedA is now supposed to wait
+PID: 20112 | XingCnt = 2, XedCnt = 3, toaWaitCnt = 2, tobWaitCnt = 0, Dir = 2
+Signalling mutex 
+Mutex PassedPID: 20118 | XingCnt = 2, XedCnt = 3, toaWaitCnt = 2, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20118 | XingCnt = 3, XedCnt = 3, toaWaitCnt = 2, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex PassedA is now supposed to wait
+PID: 20113 | XingCnt = 3, XedCnt = 3, toaWaitCnt = 3, tobWaitCnt = 0, Dir = 2
+Signalling mutex 
+Mutex PassedPID: 20119 | XingCnt = 3, XedCnt = 3, toaWaitCnt = 3, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20119 | XingCnt = 4, XedCnt = 3, toaWaitCnt = 3, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex PassedA is now supposed to wait
+PID: 20114 | XingCnt = 4, XedCnt = 3, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Signalling mutex 
+Mutex PassedPID: 20120 | XingCnt = 4, XedCnt = 3, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20120 | XingCnt = 5, XedCnt = 3, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+PID: 20116 | XingCnt = 4, XedCnt = 4, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+Mutex PassedPID: 20115 | XingCnt = 4, XedCnt = 4, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Crossing to B about to start
+PID: 20115 | XingCnt = 5, XedCnt = 4, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+B signaling mutex 
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+PID: 20117 | XingCnt = 4, XedCnt = 5, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+Mutex Passed
+PID: 20118 | XingCnt = 3, XedCnt = 6, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+Mutex Passed
+PID: 20119 | XingCnt = 2, XedCnt = 7, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+Mutex Passed
+PID: 20120 | XingCnt = 1, XedCnt = 8, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 2
+Signaling Mutex
+Mutex Passed
+Changing Direction to turn toward a
+PID: 20115 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 4, tobWaitCnt = 0, Dir = 1
+Signaling Baboon waiting to cross to a
+A was waiting until signal call. Signal has been called 
+PID: 20111 | XingCnt = 1, XedCnt = 0, toaWaitCnt = 3, tobWaitCnt = 0, Dir = 1
+Signaling baboon behind current baboon 
+Baboon about to cross
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+A was waiting until signal call. Signal has been called 
+PID: 20112 | XingCnt = 2, XedCnt = 0, toaWaitCnt = 2, tobWaitCnt = 0, Dir = 1
+Signaling baboon behind current baboon 
+Baboon about to cross
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+A was waiting until signal call. Signal has been called 
+PID: 20113 | XingCnt = 3, XedCnt = 0, toaWaitCnt = 1, tobWaitCnt = 0, Dir = 1
+Signaling baboon behind current baboon 
+Baboon about to cross
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+A was waiting until signal call. Signal has been called 
+PID: 20114 | XingCnt = 4, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+Baboon about to cross 
+PID: 20114 | XingCnt = 4, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+Signaling Mutex
+ Rope Crossing
+Rope Crossed. Waiting for mutex 
+Mutex Passed
+PID: 20111 | XingCnt = 3, XedCnt = 1, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+Signaling Mutex
+Mutex Passed
+PID: 20112 | XingCnt = 2, XedCnt = 2, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+Signaling Mutex
+Mutex Passed
+PID: 20113 | XingCnt = 1, XedCnt = 3, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 1
+Signaling Mutex
+Mutex Passed
+Crossing Direction set to none. No more Baboons waiting 
+PID: 20114 | XingCnt = 0, XedCnt = 0, toaWaitCnt = 0, tobWaitCnt = 0, Dir = 0
+Signaling Mutex
+Baboons have finished all crossings
